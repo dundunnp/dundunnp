@@ -10,9 +10,6 @@ You can't wait until life isn’t hard anymore before you decide to be happy.
 * ✉️  You can contact me at [xiazizhun@gmail.com](mailto:xiazizhun@gmail.com)
 * 🚀  I'm currently working on [Nanchang University](http://www.ncu.edu.cn/)
 
-<a href="https://www.github.com/dundunnp" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/dundunnp?logo=github&style=for-the-badge&color=a855f7&labelColor=181824" /></a>
-
 **languages and tools:**  
 
 <code><img height="30" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"></code>
